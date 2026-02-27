@@ -364,7 +364,6 @@ Protected Route Request
 | Variable | Type | Default | Description |
 |----------|------|---------|------------|
 | `VITE_API_BASE_URL` | string | — | Backend API base URL (e.g., `http://localhost:3000`) |
-| `VITE_APP_NAME` | string | — | Application name displayed in UI |
 
 ---
 
